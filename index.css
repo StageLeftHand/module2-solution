@@ -37,6 +37,7 @@ body {
     float: right;
     padding: 5px;
     margin: auto;
+    color: black;
 }
 #p3 {
     background-color: rgb(0, 129, 0);
@@ -44,6 +45,7 @@ body {
     float: right;
     padding: 5px;
     margin: auto;
+   
     
 }
 p {
